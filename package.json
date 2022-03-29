@@ -1,0 +1,24 @@
+{
+  "name": "@brieucj/ts-config",
+  "version": "0.0.1",
+  "main": "index.js",
+  "bin": "./bin/index.js",
+  "keywords": [
+    "tsconfig.json",
+    ".eslintrc",
+    "prettierrc",
+    "react",
+    "node",
+    "typescript"
+  ],
+  "scripts": {
+    "start": "node ./bin/index.js",
+    "semantic-release": "semantic-release"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "inquirer": "^8.2.2",
+    "prompt": "^1.2.2",
+    "semantic-release": "^19.0.2"
+  }
+}
