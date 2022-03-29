@@ -7,5 +7,5 @@ Files:
 - tsconfig.json
 
 ```
-npx js-config-files
+npx --yes @brieucj/ts-config
 ```
