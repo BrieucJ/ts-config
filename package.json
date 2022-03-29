@@ -8,7 +8,7 @@
     ".eslintrc",
     "prettierrc",
     "react",
-    "node",
+    "node.js",
     "typescript"
   ],
   "scripts": {
